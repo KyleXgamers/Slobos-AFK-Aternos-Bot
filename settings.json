@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "!AFK FOR 24/7 SERVER ONLINE!",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Icheiro23232222.aternos.me:45255",
+    "port": 45255,
     "version": "",
     "try-creative": false
   },
