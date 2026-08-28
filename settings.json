@@ -1,12 +1,12 @@
 {
-  "name": "!FOR!",
+  "name": "!AFKBOT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Icheiro23232222.aternos.me:45255",
+    "ip": "Icheiro23232222.aternos.me:37200",
     "port": 45255,
     "version": "1.21.11",
     "try-creative": false
